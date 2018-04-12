@@ -37,5 +37,10 @@
         /// Set the current editor selection.
         /// </summary>
         PMO_SELECTION,
+        
+        /// <summary>
+        /// user pressed O without anything selected
+        /// </summary>
+        PMO_POSITION, 
     }
 }
