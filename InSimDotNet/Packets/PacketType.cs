@@ -322,6 +322,11 @@
         /// Car state changed
         /// </summary>
         ISP_CSC,
+        
+        /// <summary>
+        /// Conn Interface Mode
+        /// </summary>
+        ISP_CIM,
 
         /// <summary>
         /// Admin request
